@@ -129,8 +129,7 @@ comando:
 
 Este comando mostrará la interfaz gráfica desarrollada con PyQt5:
 
-![](media/image1.png){width="4.108982939632546in"
-height="2.2656255468066493in"}
+![](media/image1.png)
 
 En esta interfaz se puede arrastrar una imagen y definir la cantidad de
 máscaras para el programa. Esta interfaz copiará la imagen al directorio
