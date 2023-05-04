@@ -93,18 +93,16 @@ través de un switch para realizar la conexión entre ellas.
 
 Para instalar la libreria pyuic se utilizó el siguiente comando:
 
-  -----------------------------------------------------------------------
+```
   pip install pyuic5-tool
-
-  -----------------------------------------------------------------------
+```
 
 También se utilizaron las librerías de openCV las cuales se instalan con
 el siguiente comando:
 
-  -----------------------------------------------------------------------
+```
   pip install opencv-python
-
-  -----------------------------------------------------------------------
+```
 
 Al momento de compilar la aplicación en el usuario mpiu se necesitó
 realizar configuraciones con dicho usuario para poder utilizar el
@@ -125,10 +123,9 @@ y pode realizar el procesamiento distribuido
 Para ejecutar el siguiente script de Python se utiliza el siguiente
 comando:
 
-  -----------------------------------------------------------------------
+```
   python3 script.py
-
-  -----------------------------------------------------------------------
+```
 
 Este comando mostrará la interfaz gráfica desarrollada con PyQt5:
 
